@@ -1,0 +1,1 @@
+O programa da questão tem como entrada um numero inteiro, logo após imprime o mesmo.
