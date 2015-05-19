@@ -1,0 +1,1 @@
+Lista 6, questões 1 e 2, requer  struct e TAD
