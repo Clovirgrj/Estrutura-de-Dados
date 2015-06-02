@@ -1,0 +1,1 @@
+A função faz com que todos os campos final das structs nodo recebam NULL
